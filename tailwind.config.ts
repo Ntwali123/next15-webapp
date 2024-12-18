@@ -26,7 +26,7 @@ const config: Config = {
 					DEFAULT: "#000000",
 				},
 				white: {
-					"100": " #F7F7F7",
+					"100": "#F7F7F7",
 					DEFAULT: "#FFFFFF",
 				},
 			},
